@@ -1,0 +1,33 @@
+[
+    {
+      "entrenador": "Gary Owh",
+      "pokemons": [
+        {
+          "nombre": "Vinnasor",
+          "tipo": "planta",
+          "foto": "img/vinnasor.jpg"
+        },
+        {
+          "nombre": "Evee",
+          "tipo": "normal",
+          "foto": "img/evee.jpg"
+        }
+      ]
+    },
+    {
+      "entrenador": "Ash Quetchu",
+      "pokemons": [
+        {
+          "nombre": "Charizar",
+          "tipo": "fuego",
+          "foto": "img/charizar.jpg"
+        },
+        {
+          "nombre": "Pikachu",
+          "tipo": "electrico",
+          "foto": "img/pikachu.jpg"
+        }
+      ]
+    }
+  ]
+  
